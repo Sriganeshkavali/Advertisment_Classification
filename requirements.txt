@@ -2,3 +2,5 @@ streamlit
 sklearn
 ibm_watson
 requests
+numpy
+pandas
