@@ -9,7 +9,7 @@ import requests
 
 
 # NOTE: you must manually set API_KEY below using information retrieved from your IBM Cloud account.
-API_KEY = "9qpfOevmLWlZvEGAJsul-C0Cyddrh9Oz4TPc6qPxuY0t"
+API_KEY = "9qpfOevmLWlZvEGAJsul-C0Cyddrh9Oz4TPc6qPxuY0t" #your API KEY
 
 
 token_response = requests.post('https://iam.cloud.ibm.com/identity/token', data={"apikey":
